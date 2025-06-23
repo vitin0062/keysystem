@@ -1,0 +1,7 @@
+{
+  "keys": [
+    { "key": "ABC123", "user": "João" },
+    { "key": "DEF456", "user": "Maria" },
+    { "key": "XYZ789", "user": "Lucas" }
+  ]
+}
